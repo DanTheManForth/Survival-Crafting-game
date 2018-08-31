@@ -1,4 +1,4 @@
-//procedurally generated terrain with roads.
+
 
 using System.Collections;
 using System.Collections.Generic;
